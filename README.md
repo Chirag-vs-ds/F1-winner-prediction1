@@ -52,6 +52,19 @@ Using past race data, driver statistics, and team performance, this app predicts
 
 <img width="1714" height="1190" alt="image" src="https://github.com/user-attachments/assets/a46cae09-226f-4c58-a383-907aa49a4633" />
 
+⚠️ Disclaimer
+This project is created purely for educational and experimental purposes.
+
+The predictions made by this model are based on historical data and machine learning algorithms, and are not guaranteed to be accurate.
+
+This project is not affiliated with or endorsed by Formula 1, FIA, any teams, or drivers.
+
+All data used is publicly available or simulated for learning purposes.
+
+Please do not use this model for betting, gambling, or any financial decisions related to motorsports.
+
+
+
 
 
 
