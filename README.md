@@ -49,7 +49,7 @@ Using past race data, driver statistics, and team performance, this app predicts
 
 ## 🧠 Model Accuracy
 
-Achieved an accuracy of 94.73% on test data. 
+
 <img width="1714" height="1190" alt="image" src="https://github.com/user-attachments/assets/a46cae09-226f-4c58-a383-907aa49a4633" />
 
 
