@@ -5,7 +5,8 @@ import joblib
 app = Flask(__name__)
 
 # Load model
-model = joblib.load('../notebook/f1_winner_model.pkl')
+model = joblib.load('f1_winner_model.pkl')
+
 
 # Load dummy columns used during training
 with open('feature_columns.txt') as f:
